@@ -180,31 +180,31 @@ renderer.domElement.addEventListener("touchstart", startFlip)
 
 const text = {
   ru: {
-    head: "ОРЕЛ",
-    tail: "РЕШКА",
+    head: "SONIC",
+    tail: "TAILS",
     confirmReset: "да",
     cancelReset: "нет",
     popupContent:
       "Вы действительно хотите начать новый раунд? Текущий прогресс будет сброшен.",
   },
   kz: {
-    head: "ОРЕЛ",
-    tail: "РЕШКА",
+    head: "SONIC",
+    tail: "TAILS",
     confirmReset: "да",
     cancelReset: "нет",
     popupContent:
       "Вы действительно хотите начать новый раунд? Текущий прогресс будет сброшен.",
   },
   uk: {
-    head: "ОРЕЛ",
-    tail: "РЕШКА",
+    head: "SONIC",
+    tail: "TAILS",
     confirmReset: "да",
     cancelReset: "нет",
     popupContent:
       "Вы действительно хотите начать новый раунд? Текущий прогресс будет сброшен.",
   },
   en: {
-    head: "HEADS",
+    head: "SONIC",
     tail: "TAILS",
     confirmReset: "yes",
     cancelReset: "no",
